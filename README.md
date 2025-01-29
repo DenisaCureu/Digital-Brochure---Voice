@@ -1,4 +1,6 @@
 # Digital-Brochure---Voice
+Android studio - Java/xml
+
  This paper presents the Digital Brochure application for transformation from speech to text or from text to speech to inform the customers of the Giorgia restaurant about the menu provided. For the installation and use of this application, version compatibility between the programming environment and the programming language is required. The application is made in Android Studio with the help of the Android programming language, where the voice signal is taken from the microphone for the first transformation, and the text is string, included in the code, for the other transformation.
 
  #Functionality
